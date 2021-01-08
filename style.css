@@ -1,0 +1,52 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    margin: 0px;
+}
+h1{
+    font-size: 60px;
+    width: 348px;
+    height: 12px;
+}
+p{
+    width: 309px;
+    height: 100px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-top: 50px;
+}
+.half-side{
+    width: 30%;
+    float: left;
+    margin-right: 2%;
+    padding-left: 15%;
+}
+.half-side img{
+    width: 65%;
+    height: 400px;
+    left: 720px;
+    top: 38px;
+}
+.half-side p{
+    margin-bottom: 80px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+h2{
+    font-size: 48px;
+    height: 40px;
+}
+section{
+    height: 500px;
+}
+.topnav-centered a {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    padding: 5px;
+  }
